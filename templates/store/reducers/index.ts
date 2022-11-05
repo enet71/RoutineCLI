@@ -1,1 +1,1 @@
-export * from './#{{store.name}}#.reducers';
+export * from './#{{store.name.file}}#.reducers';

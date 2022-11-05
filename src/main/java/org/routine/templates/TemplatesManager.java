@@ -1,4 +1,4 @@
-package org.routine;
+package org.routine.templates;
 
 import java.io.FileInputStream;
 import java.io.IOException;

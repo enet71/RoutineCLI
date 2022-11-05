@@ -1,1 +1,1 @@
-export * from './#{{store.name}}#-state.consts';
+export * from './#{{store.name.file}}#-state.consts';

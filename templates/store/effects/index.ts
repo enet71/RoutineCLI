@@ -1,1 +1,1 @@
-export * from './#{{store.name}}#.effects';
+export * from './#{{store.name.file}}#.effects';

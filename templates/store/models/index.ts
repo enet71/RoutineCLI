@@ -1,1 +1,1 @@
-export * from './#{{store.name}}#-state.models';
+export * from './#{{store.name.file}}#-state.models';

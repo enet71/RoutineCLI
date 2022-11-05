@@ -1,1 +1,1 @@
-export * from './#{{store.name}}#.selectors';
+export * from './#{{store.name.file}}#.selectors';
